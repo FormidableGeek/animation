@@ -1,6 +1,6 @@
 ##  Animation Project
 
-```To install```
+```To install: Run```
 
 git clone https://github.com/FormidableGeek/animation.git
 
